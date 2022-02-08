@@ -2,7 +2,7 @@
 
 
 
-Για το πρωτο μερος θα πρεπει η εφαρμογή εχει 3 main, την PublisherImpl, την BrokerImpl και την ConsumerImpl
+Για το πρωτο μερος τις εργασίας η εφαρμογή εχει 3 main, την PublisherImpl, την BrokerImpl και την ConsumerImpl
 Χρησιμοποιώντας Intellij για να το τρέξουμε ακολουθουμε τα εξής βηματα:
 
 1)Με Program Arguments τον αριθμό 1, run την BrokerImpl
